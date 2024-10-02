@@ -1,0 +1,5 @@
+rekha,6
+jaya,148
+lekha,227
+hema,175
+shushma,4

@@ -756,7 +756,7 @@ def change_date():
             thirty()
 schedule.every().sunday.do(change_date)
 """import mysql.connector as sc
-a=sc.connect(host="localhost",user="root",passwd="Chintoo@7",database="PROJECT")
+a=sc.connect(host="localhost",user="root",passwd="****",database="PROJECT")
 f=open("C:/Users/yashv/OneDrive/Desktop/comp1.csv","r")
 d=f.readlines()
 y=" (day char(10),period1 char(10),period2 char(10),period3 char(10),period4 char(10),period5 char(10),period6 char(10),period7 char(10),period8 char(10),date char(10));"
